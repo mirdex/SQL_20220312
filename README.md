@@ -20,4 +20,4 @@
 
 #### 課程大綱
 
-- [1. 環境建置](https://mirdex.github.io/python1117/1.%20environment.slides.html)
+- [1. MySQL簡介](https://mirdex.github.io/SQL_20220312/0.%20MySQL.slides.html)
