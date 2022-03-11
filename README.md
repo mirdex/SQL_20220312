@@ -20,4 +20,7 @@
 
 #### 課程大綱
 
-- [1. MySQL簡介](https://mirdex.github.io/SQL_20220312/0.%20MySQL.slides.html)
+- [0. MySQL簡介](https://mirdex.github.io/SQL_20220312/0.%20MySQL.slides.html)
+
+####理論
+- [1. 關聯式資料庫規劃](https://mirdex.github.io/SQL_20220312/0-1%20關聯式資料庫的規劃.slides.html)
