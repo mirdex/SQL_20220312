@@ -29,3 +29,4 @@
 - [1. 基礎SQL查詢](https://mirdex.github.io/SQL_20220312/1.%20基礎SQL查詢_Q.slides.html)
 - [2. 資料表操作](https://mirdex.github.io/SQL_20220312/2.%20資料表操作.slides.html)
 - [3. 進階SQL查詢-1](https://mirdex.github.io/SQL_20220312/3.%20進階查詢技巧_1_Q.slides.html)
+- [4. 進階SQL查詢-2](https://mirdex.github.io/SQL_20220312/4.%20進階查詢技巧_2_Q.slides.html)
